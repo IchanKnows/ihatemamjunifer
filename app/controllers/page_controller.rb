@@ -4,5 +4,7 @@ class PageController < ApplicationController
 		@hate = Hate.all
 	end
 
+	
+
 
 end
