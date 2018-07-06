@@ -1,0 +1,20 @@
+$navbar-default-bg: black;
+
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
+#webtitle{
+	font-size: 1.7em;
+	color: red;
+	text-transform: uppercase;
+	letter-spacing: -1px;
+	font-weight: bold;
+}
+
+body {
+	background-image: asset-url('aristotle.png');
+	background-size: cover;
+}
+
+
+
